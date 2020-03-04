@@ -16,11 +16,11 @@ The data comes with the TARGET indicating 0: the loan was repaid or 1: the loan 
 
 ## Requirements
 
-Python 2.7/3.7
-Seaborn
-Numpy 1.17.2
-Pandas
-matplotlib
+Python 2.7/3.7  
+Seaborn  
+Numpy 1.17.2  
+Pandas  
+matplotlib  
 
 ## Conclusion
 
